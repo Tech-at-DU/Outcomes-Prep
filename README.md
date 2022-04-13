@@ -1,5 +1,7 @@
 # Outcomes Tutorial
 
+This content will take you through all parts of the job search process. The tutorial sections link into each other - you can use this as a "home page" or click from one module to the next.
+
 ## Part 1: Introspection
 Do some introspection on what you want and need in your first job. This reflection will provide useful context for our journey ahead
 1. [Introduction](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P01-Introduction/content.md): see the job search prep path ahead of us.
@@ -15,16 +17,14 @@ Do some introspection on what you want and need in your first job. This reflecti
 
 
 ## Part 3: The Job Search
-1. 
+1. [Cover Letters](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P01-Cover-Letters/content.md)
+2. [Contact Management System](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P02-CMS/content.md)
+3. [Find Jobs](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P03-Find-Jobs/content.md)
+4. [Apply](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P04-Apply/content.md)
+5. [Referrals](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P05-Referrals/content.md)
+6. [Behavioral Interviews](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P06-Behavioral-Interviews/content.md)
+7. [On Site Interviews](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P06-On-Site-Interviews/content.md)
+8. [Negotiation](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P07-Negotiation/content.md)
+9. [Accepting Offers](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P08-Accept-Offer/content.md)
 
-Each tutorial should have a `README.md` at the root with the following things included:
-
-1. Preview image or gif of the final product
-1. Last date / minor version of SDKs used the tutorial was tested on
-1. Pre-requisites to understand the tutorial
-1. Objectives for the tutorial
-1. Instructor FAQ (common areas students make get stuck on, bugs they may encounter, etc)
-
-# Writing your own tutorial
-
-Use this repository as a starting point for your tutorial. Each tutorial must follow it's file structure and include all files included in this repository.
+Reach out to Casey Bui or Dan Morse for any questions or to get feedback/support on any part of your process.
