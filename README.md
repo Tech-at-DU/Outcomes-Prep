@@ -1,4 +1,21 @@
-# Tutorial Template
+# Outcomes Tutorial
+
+## Part 1: Introspection
+Do some introspection on what you want and need in your first job. This reflection will provide useful context for our journey ahead
+1. [Introduction](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P01-Introduction/content.md): see the job search prep path ahead of us.
+2. [Must-Haves and Nice-to-Haves](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P03-must-haves-nice-to-haves/content.md): center yourself on your criteria for what you need in your first job after ACS.
+3. [Find 5 Roles](https://github.com/Tech-at-DU/Outcomes-Prep/blob/master/P04-five-companies/content.md): you'll get a better sense of "what" companies are looking for; this perspective will help you in part two of this tutorial
+
+
+## Part 2: Prepping Your Materials
+1. [Resume](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P01-Resume/content.md)
+2. [LinkedIn](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P02-LinkedIn/content.md)
+3. [Github Cleanup](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P03-Github-Cleanup/content.md)
+4. [Personal Oddessy](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P04-Personal-Odyssey/content.md)
+
+
+## Part 3: The Job Search
+1. 
 
 Each tutorial should have a `README.md` at the root with the following things included:
 
