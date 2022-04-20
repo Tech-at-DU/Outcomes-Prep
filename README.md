@@ -14,7 +14,7 @@ Do some introspection on what you want and need in your first job. This reflecti
 2. [LinkedIn](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P02-LinkedIn/content.md)
 3. [Github Cleanup](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P03-Github-Cleanup/content.md)
 4. [Personal Oddessy](https://github.com/Tech-at-DU/Outcomes-Prep-2/blob/master/P04-Personal-Odyssey/content.md)
-
+6. [Behavioral Interviews](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P06-Behavioral-Interviews/content.md) - prepare your answers to common questions
 
 ## Part 3: The Job Search
 1. [Cover Letters](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P01-Cover-Letters/content.md)
@@ -22,7 +22,6 @@ Do some introspection on what you want and need in your first job. This reflecti
 3. [Find Jobs](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P03-Find-Jobs/content.md)
 4. [Apply](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P04-Apply/content.md)
 5. [Referrals](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P05-Referrals/content.md)
-6. [Behavioral Interviews](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P06-Behavioral-Interviews/content.md)
 7. [On Site Interviews](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P06-On-Site-Interviews/content.md)
 8. [Negotiation](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P07-Negotiation/content.md)
 9. [Accepting Offers](https://github.com/Tech-at-DU/Outcomes-Prep-3/blob/master/P08-Accept-Offer/content.md)
